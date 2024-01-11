@@ -1,3 +1,6 @@
 [submodule "beagleboard_linuxbsp"]
 	path = beagleboard_linuxbsp
 	url = https://github.com/beagleboard/linux.git
+[submodule "u-boot"]
+	path = u-boot
+	url = https://github.com/u-boot/u-boot.git
