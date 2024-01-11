@@ -1,0 +1,3 @@
+[submodule "beagleboard_linuxbsp"]
+	path = beagleboard_linuxbsp
+	url = https://github.com/beagleboard/linux.git

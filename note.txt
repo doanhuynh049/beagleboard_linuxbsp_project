@@ -1,0 +1,2 @@
+sshpass -p 'gcsvn123' ssh linuxkernel@172.18.25.72
+git clone https://github.com/beagleboard/linux.git
